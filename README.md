@@ -1,4 +1,4 @@
-**ANN:** The model started with low accuracy but improved as training continued. After some epochs, it learned the patterns in the data and reached around 80% accuracy. The training and validation results stayed close, which means the model is not overfitting much.
+**ANN:** THe (ANN) model is built to predict whether a passenger survived or not at the tragedy of titanic, based on features like age, gender, fare, and passenger class. The output is binary, where 1 represents survival and 0 represents not survived.The model started with low accuracy but improved as training continued. After some epochs, it learned the patterns in the data and reached around 80% accuracy. The training and validation results stayed close, which means the model is not overfitting much.
 
 On test data, the model achieved about 78% accuracy, which shows it works well on unseen data. The confusion matrix shows that it predicts non-survivors better than survivors, but overall the performance is good.
 
